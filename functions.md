@@ -14,6 +14,6 @@ To download your experiments from eLab, follow the procedure below.
 
 1. After completing the **installation** module, go to your terminal
 2. Enter the following command:
-`ElabBridge extended_download chemin_de_sauvegarde chemin_fichier_config vos_tags -f csv `
-3. `chemin_de_sauvegarde` is the **complete** path to your csv file where your experiments will be saved
-4. `chemin_fichier_config` is the path to your `.json` file containing your API key as seen above
+`ElabBridge extended_download output_file_path config_file_path tag -f csv `
+3. `output_file_path` is the **complete** path to your csv file where your experiments will be saved
+4. `config_file_path` is the path to your `.json` file containing your API key as seen above
